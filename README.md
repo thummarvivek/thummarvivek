@@ -26,6 +26,7 @@ I have 2.5+ years of experience in the field. My journey began with intensive tr
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=F5C73B)
 ![RoomDatabase](https://img.shields.io/badge/-RoomDatabase-090909?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite&logoColor=white)
+![Agentic Ai](https://img.shields.io/badge/ai-090909?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Php](https://img.shields.io/badge/php-090909?style=for-the-badge&logo=php)
 ![MySql](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=00708A)
 ![Xampp](https://img.shields.io/badge/xampp-090909?style=for-the-badge&logo=xampp&logoColor=F37623)
